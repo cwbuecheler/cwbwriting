@@ -8,4 +8,4 @@ I can't really see any reason anyone would want to use this site other than mmmm
 - `npm sass` to run sass compiling
 - `npm gulp` to run javascript minimizing
 
-Feel free to reach out if you have questions about anything.
+Feel free to reach out if you have questions about anything. I'm not hard to find!
