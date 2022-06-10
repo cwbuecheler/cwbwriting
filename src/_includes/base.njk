@@ -1,0 +1,56 @@
+{% set currentPage = ('index' if pagetype === 'index' else 'default') %}
+
+<!DOCTYPE html>
+
+<!--
+
+  Why don't you minify your HTML?
+
+  Because I love view source. It's how I learned to make websites.
+  I don't think there's enough of a performance gain, even on slow connections,
+  for minifying HTML to make much of a difference. I do minify CSS and JS, but
+  if you'd like to see the unminified versions of those files, please reach
+  out and I'll be happy to provide them!
+
+-->
+
+<html class="dark" id="htmltop" lang="en">
+  <head>
+    <title>{{ title }}</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{description}}"" />
+    <link rel="shortcut icon" href="/_img/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="alternate" type="application/rss+xml" title="CWB Writing RSS Feed" href="/feed.xml"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/_css/global.css?v=2022.06.06" />
+  </head>
+  <body>
+    {% include 'src/_includes/header.njk' %}
+      {% if currentPage == 'index' %}
+        {% include 'src/_includes/welcome.njk' %}
+      {% endif %}
+    <div class="articlewrap">
+      <article>
+        {{ content | safe }}
+      </article>
+      {% include "src/_includes/sidebar.njk" %}
+    </div>
+    {% include "src/_includes/footer.njk" %}
+  </body>
+  <script async src="/_js/global.min.js" async></script>
+  <div id="fb-root"></div>
+  <script
+    async
+    defer
+    crossorigin="anonymous"
+    src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0&appId=217798258378864&autoLogAppEvents=1"
+    nonce="iW5tfZiZ"
+  ></script>
+</html>

@@ -1,0 +1,27 @@
+---
+layout: base.njk
+permalink: /posts/
+eleventyNavigation:
+  key: Posts
+  order: 2
+title: CWB Writing | Posts Archive
+description: Blog Posts Archive - Christopher Buecheler's Author Site
+---
+
+<h3>Post Archive</h3>
+
+{% set postslist = collections.posts | sortByDate() %}
+
+<ol reversed class="postlist">
+  {% for post in postslist %}
+  <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+    <time class="postlist-date" datetime="{{ post.data.day }}">{{
+      post.data.day | readableDate
+    }}</time>
+    <a href="{{ post.url | url }}" class="postlist-link"
+      >{% if post.data.headline %}{{ post.data.headline }}{% else %}<code>{{ post.url }}</code
+      >{% endif %}</a
+    >
+  </li>
+  {% endfor %}
+</ol>

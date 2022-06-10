@@ -1,0 +1,30 @@
+{
+  "name": "cwbwriting",
+  "version": "1.0.0",
+  "description": "The CWB Writing Website",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "gulp": "gulp",
+    "sass": "npx sass src/_css:src/_css --watch --style compressed",
+    "start": "eleventy --serve",
+    "test": "test"
+  },
+  "author": "Christopher Buecheler",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-terser": "^2.1.0",
+    "prettier": "^2.6.2",
+    "sass": "^1.52.2",
+    "terser": "^5.14.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.2"
+  }
+}
