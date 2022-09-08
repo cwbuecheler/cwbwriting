@@ -15,4 +15,4 @@ jobs:
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
         local-dir: ./public/
-        server-dir: cwbwriting/
+        server-dir: cwbwriting.com/
