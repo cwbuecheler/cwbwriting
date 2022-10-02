@@ -5,7 +5,7 @@
   <subtitle>The Works of Christopher Buecheler</subtitle>
   <link href="https://cwbwriting.com/feed.xml" rel="self"/>
   <link href="https://cwbwriting.com/"/>
-  <updated>2022-09-08T23:10:34Z</updated>
+  <updated>2022-10-02T12:42:36Z</updated>
   <id>https://cwbwriting.com/</id>
   <author>
     <name>Christopher Buecheler</name>
@@ -13,9 +13,28 @@
   </author>
   
   <entry>
+    <title>On Facebook | Post | CWB Writing</title>
+    <link href="https://cwbwriting.com/posts/2022-10-on-facebook/"/>
+    <updated>2022-10-02T12:42:36Z</updated>
+    <id>https://cwbwriting.com/posts/2022-10-on-facebook/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;This post is adapted from a series of tweets I made the other day. If musings like these interest you, maybe consider &lt;a href=&quot;https://twitter.com/cwbuecheler/&quot;&gt;following me on Twitter&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In light of recent reports that Facebook is bleeding both users and revenue, I want to talk about the site and its slow slide into irrelevance, and why I believe the 2010s focus on “Engagement” as the most important metric for measuring site performance is responsible for that slide.&lt;/p&gt;
+&lt;p&gt;“Engagement,” for those who don’t know, is measured by tracking EVERYTHING A USER DOES on a site and measuring which activities keep them on the page longer. Literally every single time you click, and probably even mouse over things on Facebook, you’re being measured.&lt;/p&gt;
+&lt;p&gt;When people talk about “The Algorithm” what they mean is actually a bunch of algorithms, which are just chunks of code that behave in certain ways. “The Algorithm” is code that looks at what content spikes “Engagement” and attempts to put that content in front of users.&lt;/p&gt;
+&lt;p&gt;There is also a non-algorithmic aspect to hunting for “Engagement” – the entire company, whether it’s coders, content creators, marketers, whatever, become focused on building a site that generates “Engagement.” The reason for this is really very simple, and even make sense: The longer you keep users interacting with the site, the more ads they see and the more data on them you collect. Showing ads and selling your data to other companies is how Facebook makes money. So, from a purely profit-driven standpoint, courting “Engagement” makes sense.&lt;/p&gt;
+&lt;p&gt;Have you seen the problem yet? It’s also pretty straightforward: “Engagement” is not the same thing as “Enjoyment.” This is something I’ve been harping on for years, because I believe that pursuing the former at the expense of the latter is a long-term problem. I also believe we’ve been seeing that problem blooming like a grotesque flower over at Facebook since well before the disastrous 2016 election.&lt;/p&gt;
+&lt;p&gt;A curious trick of our brains is that we will engage with a LOT of content that ACTIVELY MAKES US UNHAPPY. Facebook courts this. Not because they want unhappy users, but because they don’t care. They want “Engaged” users, and what’s more engaging than fighting with people over the internet? Not much, except maybe participating in echo chambers that reaffirm our most deeply-held beliefs (another service Facebook happily provides).&lt;/p&gt;
+&lt;p&gt;So, people were spending more and more time on Facebook, but becoming unhappier and unhappier while doing so. This leads to a short-term spike in “Engagement,” but in the long term it undermines people’s desire to remain a part of the site. And, EVEN MORE IMPORTANTLY, it leads to new people not wanting to join the site, because all they hear is how awful it is.&lt;/p&gt;
+&lt;p&gt;So, because Facebook has focused all of this time on “Engagement” at the expense of “Enjoyment”, there is now an entire generation of internet users who hear “Facebook” and think: “That’s the place where all the old people hang out and yell at each other and are miserable.” Not exactly a ringing endorsement. Combine that with a Silicon-Valley-Libertarian ethos that refuses to do anything about right wing cesspools on the site, and you get … well, you get what Facebook is getting: a diminishing userbase as people leave the site and new users don’t come along.&lt;/p&gt;
+&lt;p&gt;Now, is this the ONLY reason for Facebook’s troubles? No, certainly not, but I believe it’s a significant reason, and a strong cautionary tale.&lt;/p&gt;
+&lt;p&gt;That’s it for this one. Thanks for sticking with me, if you did!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>CWB Writing Newsletter - September 2022 | Post | CWB Writing</title>
     <link href="https://cwbwriting.com/posts/cwb-writing-newsletter-september-2022/"/>
-    <updated>2022-09-08T23:10:34Z</updated>
+    <updated>2022-10-02T12:39:55Z</updated>
     <id>https://cwbwriting.com/posts/cwb-writing-newsletter-september-2022/</id>
     <content type="html">&lt;p&gt;I&#39;m back!&lt;/p&gt;
 &lt;p&gt;Sorry for the missing the July update. It turns out when you lose your job with five days&#39; notice (and three of those are a long weekend), you kind of go into scramble mode, and your hobbies and/or semi-professional work have to go on hold while you look for, find, interview for, accept, and start at a new job. Especially when you add a preexisting trip to France, getting COVID for the first time after two and a half years, and being the Best Man in a wedding into the mix!&lt;/p&gt;
@@ -36,7 +55,7 @@
   <entry>
     <title>Welcome to CWB Writing | Post | CWB Writing</title>
     <link href="https://cwbwriting.com/posts/welcome-to-cwb-writing/"/>
-    <updated>2022-06-10T19:56:34Z</updated>
+    <updated>2022-10-02T12:39:55Z</updated>
     <id>https://cwbwriting.com/posts/welcome-to-cwb-writing/</id>
     <content type="html">&lt;h3&gt;Welcome to CWB Writing&lt;/h3&gt;
 &lt;p&gt;Hi there,&lt;/p&gt;
@@ -49,7 +68,7 @@
   <entry>
     <title>CWB Writing Newsletter - May 2022 | Post | CWB Writing</title>
     <link href="https://cwbwriting.com/posts/cwb-writing-newsletter-may-2022/"/>
-    <updated>2022-06-10T19:56:34Z</updated>
+    <updated>2022-10-02T12:39:55Z</updated>
     <id>https://cwbwriting.com/posts/cwb-writing-newsletter-may-2022/</id>
     <content type="html">&lt;p&gt;Hello There!&lt;/p&gt;
 &lt;p&gt;What an interesting couple of months it&#39;s been. I don&#39;t have &lt;em&gt;great&lt;/em&gt; news, but I do have &lt;em&gt;good&lt;/em&gt; news, which is … well, not bad! Let&#39;s get to it.&lt;/p&gt;

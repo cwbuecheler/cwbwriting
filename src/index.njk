@@ -9,7 +9,7 @@ description: Christopher Buecheler's Author Site - novels, short stories, and no
 ---
 
 {% set currentPost = collections.posts | sortByDate() | getFirst() %}
-
+<h4>{{ currentPost[0].data.headline | safe }}</h4>
 {{ currentPost[0].templateContent | safe }}
 
 <h4>More Posts</h4>
@@ -18,9 +18,12 @@ description: Christopher Buecheler's Author Site - novels, short stories, and no
 
 <ul>
   {% for post in postslist  %}
-  <li>
-    <a href="{{ post.url }}">{{ post.data.headline }}</a>
-  </li>
+		{% if post.data.headline == currentPost[0].data.headline %}
+		{% else %}
+		<li>
+			<a href="{{ post.url }}">{{ post.data.headline }}</a>
+		</li>
+		{% endif %}
   {% endfor %}
 </ul>
 <p>
