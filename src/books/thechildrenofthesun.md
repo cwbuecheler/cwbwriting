@@ -10,8 +10,9 @@ description: The Children of the Sun, a novel - Christopher Buecheler's Author S
 
 Two and a half years have passed since Blood Hunt, and in that time a fragile peace has been maintained by the American council of vampires and their allies. Two Majors has spent the years focusing on rebuilding the life that was torn away from her. When the Children of the Sun, the militaristic cult of vampire hunters, strike at a trio of vampires visiting Chicago, the peace is shattered &hellip;
 
-<div class="desctoggle"><a href="#">Show Full Description</a> (spoilers for Blood Hunt)</div>
+<div class="desctoggle"><a href="#" id="linkFullDesc">Show Full Description</a> (spoilers for Blood Hunt)</div>
 <div class="fulldesc" id="fulldesc-tcots">
+
 It's been two and a half years since the American council defeated the Burilgi rebel Aros Kreskas and restored order to their world. With the Children of the Sun, the militaristic cult of vampire hunters, in a period of apparent dormancy, the vampires of North America have enjoyed a time of relative peace. Two Majors has spent the years focusing on training with body and sword, and on rebuilding the life that was torn away from her by Abraham. She still holds out hope that she might someday locate her friend Tori, and bring the former vampire to salvation, but with each passing day that outcome seems less and less likely.
 
 When The Children of the Sun strike at a trio of vampires visiting Chicago, it begins a war that will eventually devastate the American council and threaten every vampire not only in that country, but in all the world. The Children have found their weapon, and trained her, and now she has become an engine of destruction hell-bent on eradicating every last vampire on earth. Tori Perrault, once like a sister to Two, is now her greatest enemy.

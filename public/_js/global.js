@@ -1,4 +1,5 @@
 const getById = (elId) => document.getElementById(elId);
+const getByClass = (className) => document.getElementsByClassName(className);
 
 const buildEmail = (a, b, c, d) => `${c}${a}${d}${b}`;
 const buildEmailLink = (eml) => `<a href="mailto:${eml}">${eml}</a>`;
@@ -60,6 +61,13 @@ const afterDOMLoaded = () => {
     getById('htmltop').className = 'light';
     const iframe = document.querySelector('.g-recaptcha iframe');
     iframe.src = iframe.src;
+  });
+
+  // Handle Show Full Description Click
+  getById('linkFullDesc').addEventListener('click', (e) => {
+    e.preventDefault();
+    getByClass('desctoggle')[0].style.display = 'none';
+    getByClass('fulldesc')[0].style.display = 'block';
   });
 };
 

@@ -21,7 +21,7 @@ High above them both, the metal thing awaits.
 - **Series:** Standalone
 - **Rating:** 4.7/5 (Amazon), 4.25/5 (Goodreads)
 
-#### eBook
+#### eBook - $2.99
 
 - [Amazon (US)](http://www.amazon.com/The-Broken-Machine-Christopher-Buecheler/dp/B00EVVVUQ2)
 - [Amazon (CA)](https://www.amazon.ca/The-Broken-Machine-Christopher-Buecheler/dp/B00EVVVUQ2)
@@ -35,7 +35,7 @@ High above them both, the metal thing awaits.
 - [Smashwords](https://www.smashwords.com/books/view/352689)
 - [Kobo](http://store.kobobooks.com/en-US/ebook/the-broken-god-machine)
 
-#### Print
+#### Print - $9.99
 
 - [Amazon (US](http://www.amazon.com/The-Broken-Machine-Christopher-Buecheler/dp/1491273739/)
 - [Amazon (CA](http://www.amazon.ca/The-Broken-Machine-Christopher-Buecheler/dp/1491273739/)

@@ -10,8 +10,9 @@ description: Blood Hunt, a novel - Christopher Buecheler's Author Site
 
 It's been six months since the events of The Blood That Bonds. As Two Majors and Tori Perrault struggle to adapt to their new realities, they are drawn into a world that neither knew existed. Two must deal with the machinations of the vampire council, while Tori must make a decision that will change not only her life, but the lives of all of the vampires in America, and perhaps the world &hellip;
 
-<div class="desctoggle"><a href="#">Show Full Description</a> (spoilers for The Blood That Bonds)</div>
+<div class="desctoggle" id="linkFullDesc"><a href="#">Show Full Description</a> (spoilers for The Blood That Bonds)</div>
 <div class="fulldesc" id="fulldesc-bh">
+
 Two Majors cut off the vampire Abraham's head, reduced his remains to ashes, and scattered them to the winds. Now each night she wanders New York, freed from the chains of heroin addiction but longing still for her lover Theroen’s kiss, the taste of blood on his lips, the echo of his thoughts in her ears. There are other vampires out there; she knows it, and so she hunts.
 
 Tori Perrault spent a dozen years living in the woods, stalking her prey in the dark and killing without mercy. Now, she too has returned to humanity and struggles to come to terms with all that has happened. Her parents' love smothers her and life seems empty. She spends her nights in the bottle and in the company of strange men. She doesn't know that she is watched, until the fragile life she has rebuilt is torn from her and she is dropped suddenly into a world she never knew existed.
