@@ -20,8 +20,35 @@ const ls = {
   del: (name) => window.localStorage.removeItem(name),
 };
 
+const getMastodonData = () => {
+  fetch('https://mastodon.social/@cwbuecheler.rss')
+    .then((response) => response.text())
+    .then((str) => new window.DOMParser().parseFromString(str, 'text/xml'))
+    .then((data) => {
+      const items = data.querySelectorAll('item');
+      const latestItem = items[0];
+      console.log(latestItem);
+      let html = '';
+      // link, pubdate, description
+      const link = latestItem.querySelector('link').innerHTML;
+      const pubDate = latestItem.querySelector('pubDate').innerHTML;
+      const description = latestItem.querySelector('description').innerHTML;
+      const cleanDescription = description.replace('&lt;p&gt;', '').replace('&lt;/p&gt;', '');
+      console.log(link, pubDate, cleanDescription);
+      const unformattedDate = new Date(pubDate);
+      const formattedDate = unformattedDate.toLocaleString('en-US', { timeZone: 'EST' });
+
+      console.log();
+      html += `<p class="name"><a href="https://mastodon.social/cwbuecheler" target="_blank" rel="me">@cwbuecheler</a> · <span><a href="${link}" target="_blank">${formattedDate}</a></span></p>`;
+      html += `<p class="text">${cleanDescription}</p>`;
+      const mastodonDiv = document.getElementById('mastodon');
+      mastodonDiv.innerHTML = html;
+    });
+};
+
 // Stuff to do after the DOM loads
 const afterDOMLoaded = () => {
+  getMastodonData();
   // Handle light or dark mode
   const mode = ls.get('mode');
   // OS default first
