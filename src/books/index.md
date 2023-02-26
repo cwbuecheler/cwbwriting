@@ -6,13 +6,13 @@ description: Novels / Books Index - Christopher Buecheler's Author Site
 
 ### Books
 
-Most of my writing is longform fiction or, to put it more succinctly: novels. I've written ten so far. Five are available. All of them are listed here!
+Most of my writing is longform fiction or, to put it more succinctly: novels. I've written eleven so far. Five are available. All of them are listed here!
 
 #### Published Work
 
 These novels are available in print and as eBooks on a wide variety of platforms through several booksellers. Please check out the individual book's page for information on purchasing it.
 
-#### Elixir
+#### [Elixir](/books/elixir/)
 
 <div class="image-cover-elixir ir"><a href="/books/elixir/"><img srcset="/_img/books/elixir_sm@2x.jpg 2x, /_img/books/elixir_sm.jpg 1x" src="/_img/books/elixir_sm.jpg" alt="Elixir Cover Image" /></a></div>
 
@@ -31,7 +31,7 @@ In the process, he’ll stumble into a conspiracy that stretches far beyond the 
 
 [Get It Now](/books/elixir/)
 
-#### The Broken God Machine
+#### [The Broken God Machine](/books/thebrokengodmachine/)
 
 <div class="image-cover-tbgm ir"><a href="/books/thebrokengodmachine/"><img srcset="/_img/books/tbgm_sm@2x.jpg 2x, /_img/books/tbgm_sm.jpg 1x" src="/_img/books/tbgm_sm.jpg" alt="The Broken God Machine Cover Image" /></a></div>
 
@@ -50,7 +50,7 @@ High above them both, the metal thing awaits.
 
 [Get It Now](/books/thebrokengodmachine/)
 
-#### The 2 AM Trilogy
+#### [The 2 AM Trilogy](/books/2amtrilogy/)
 
 <div class="image-cover-trilogy ir"><a href="/books/2amtrilogy/"><img srcset="/_img/books/trilogy_sm@2x.jpg 2x, /_img/books/trilogy_sm.jpg 1x" src="/_img/books/trilogy_sm.jpg" alt="The 2 AM Trilogy Cover Image" /></a></div>
 
@@ -60,7 +60,7 @@ The 2 AM Trilogy is a set of action-oriented vampire novels that have received a
 
 It consists of the following three books:
 
-##### The Blood That Bonds
+##### [The Blood That Bonds](/books/thebloodthatbonds/)
 
 <div class="image-cover-tbtb ir"><a href="/books/thebloodthatbonds/"><img srcset="/_img/books/tbtb_sm@2x.jpg 2x, /_img/books/tbtb_sm.jpg 1x" src="/_img/books/tbtb_sm.jpg" alt="The Blood That Bonds Cover Image" /></a></div>
 
@@ -79,7 +79,7 @@ His blood can cure her addiction, grant her powers she has never had, change her
 
 [Get It Now](/books/thebloodthatbonds/)
 
-##### Blood Hunt
+##### [Blood Hunt](/books/bloodhunt/)
 
 <div class="image-cover-bloodhunt ir"><a href="/books/bloodhunt/"><img srcset="/_img/books/bloodhunt_sm@2x.jpg 2x, /_img/books/bloodhunt_sm.jpg 1x" src="/_img/books/bloodhunt_sm.jpg" alt="Blood Hunt Cover Image" /></a></div>
 
@@ -92,7 +92,7 @@ His blood can cure her addiction, grant her powers she has never had, change her
 
 [Get It Now](/books/bloodhunt/)
 
-##### The Children of the Sun
+##### [The Children of the Sun](/books/thechildrenofthesun/)
 
 <div class="image-cover-tcots ir"><a href="/books/thechildrenofthesun/"><img srcset="/_img/books/tcots_sm@2x.jpg 2x, /_img/books/tcots_sm.jpg 1x" src="/_img/books/tcots_sm.jpg" alt="The Children of the Sun Cover Image" /></a></div>
 
@@ -120,9 +120,18 @@ But Piety has no interest in serving a Queen he’s never met. He plans to turn 
 As Piety comes to value his friends, both those who’ve fallen and those who remain, he'll fight along with them against Dràsus’s soldiers, a pair of twin witches, giant monsters, terrible deathless warriors, and many other dangers. They’ll pass through frozen plains and dilapidated villages, endless swamps that once devoured a thriving kingdom overnight, hidden underpasses, and at last into the Queen’s city. At last, Piety will have his chance to walk away, only to find that the freedom he’s always craved requires a sacrifice that may prove too great to make.
 
 - **Genre**: Dark Fantasy
-- **Length**: Roughly 400 Pages
+- **Length**: Roughly 425 Pages
 - **Series**: Intended as the First In a Trilogy
-- **Status**: Shopping to Agents
+- **Status**: Preparing to Submit to Publishers
+
+##### Sequel to Piety the Knife
+
+Describing this book (or giving away its title) would involve a fairly significant spoiler for Piety the Knife, so for now I'm keeping it under wraps!
+
+- **Genre**: Dark Fantasy
+- **Length**: Roughly 475 Pages
+- **Series**: Intended as the Second In a Trilogy
+- **Status**: First Draft Finished and Out for Comments
 
 ##### Possessed
 
@@ -139,6 +148,7 @@ Helping people not die is a serious motivator, so Amber and Jayuul hatch a plan 
 - **Genre:** Contemporary Fantasy
 - **Length:** Roughly 400 pages
 - **Series:** Standalone
+- **Status:** "In the Trunk" for Now
 
 ##### Divergence Point
 
@@ -157,6 +167,7 @@ If only they liked each other.
 - **Genre:** Science Fiction
 - **Length:** Roughly 400 pages
 - **Series:** Intended as the First in a Trilogy
+- **Status:** "In the Trunk" for Now
 
 ##### Pulse
 
@@ -169,6 +180,7 @@ Faced with danger at every turn and relying on the help of other survivors she�
 - **Genre:** Horror/Sci-Fi
 - **Length:** Roughly 450 pages
 - **Series:** Untitled Series Book 1
+- **Status:** "In the Trunk" for Now
 
 ##### The Werewolf at the Window
 
@@ -177,3 +189,4 @@ When the werewolf broke down her front door and killed her parents, thirteen yea
 - **Genre:** YA Modern Fantasy
 - **Length:** Roughly 300 pages
 - **Series:** Monster Hunters Book 1
+- **Status:** "In the Trunk" indefinitely
