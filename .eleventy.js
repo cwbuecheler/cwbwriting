@@ -40,6 +40,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_img');
   eleventyConfig.addPassthroughCopy('src/_js');
   eleventyConfig.addPassthroughCopy('src/_css');
+  eleventyConfig.addPassthroughCopy('src/*.txt');
 
   /* Trigger a browser refresh when the css file changes */
   eleventyConfig.setBrowserSyncConfig({
