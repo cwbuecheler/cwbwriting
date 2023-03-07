@@ -2,7 +2,7 @@
 day: 01/21/2023
 title: CWB Writing Newsletter - January 2023 | Post | CWB Writing
 headline: CWB Writing Newsletter - January 2023
-description: Post - CWB Writing Newsletter - Christopher Buecheler's Author Site
+description: Post - CWB Writing Newsletter, January 2023 - Christopher Buecheler's Author Site
 ---
 
 It's 2023!
