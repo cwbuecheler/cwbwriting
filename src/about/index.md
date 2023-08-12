@@ -24,7 +24,7 @@ I'm flattered, truly. Let's start with my standard author bio:
 
 > Christopher Buecheler is a novelist, a web developer, an award-winning amateur mixologist, a developing illustrator, a player of the guitar and drums, an enjoyer of video games, and an NBA enthusiast. He lives a semi-nomadic existence with his wonderful French wife and their two cats, Carbomb and Baron Salvatore H. Lynx II. Currently they reside in Providence, RI.
 
-Aside from all that, I'm in my mid-forties, I listen to a fairly narrow spectrum of mostly rock music, I work out and run on weekdays, I'm vocally progressive, and I spend too much time on Twitter.
+Aside from all that, I'm in my mid-forties, I listen to a fairly narrow spectrum of mostly rock music, I work out and run on weekdays, I'm vocally progressive, and I spend too much time on BlueSky.
 
 #### Semi-Nomadic?
 

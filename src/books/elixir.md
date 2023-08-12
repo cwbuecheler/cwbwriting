@@ -47,7 +47,7 @@ In the process, he’ll stumble into a conspiracy that stretches far beyond the 
 
 > "Objectively better than Dan Brown!"
 
-&ndash; [Charles Randall](https://twitter.com/charlesrandall) / Game Developer
+&ndash; [Charles Randall](https://grumble.social/@charlesrandall) / Game Developer
 
 > "Well, I was up until 4 AM reading Elixir last night, so &hellip; thanks?"
 

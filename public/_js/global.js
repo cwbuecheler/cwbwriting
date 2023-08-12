@@ -27,18 +27,15 @@ const getMastodonData = () => {
     .then((data) => {
       const items = data.querySelectorAll('item');
       const latestItem = items[0];
-      console.log(latestItem);
       let html = '';
       // link, pubdate, description
       const link = latestItem.querySelector('link').innerHTML;
       const pubDate = latestItem.querySelector('pubDate').innerHTML;
       const description = latestItem.querySelector('description').innerHTML;
       const cleanDescription = description.replace('&lt;p&gt;', '').replace('&lt;/p&gt;', '');
-      console.log(link, pubDate, cleanDescription);
       const unformattedDate = new Date(pubDate);
       const formattedDate = unformattedDate.toLocaleString('en-US', { timeZone: 'EST' });
 
-      console.log();
       html += `<p class="name"><a href="https://mastodon.social/cwbuecheler" target="_blank" rel="me">@cwbuecheler</a> · <span><a href="${link}" target="_blank">${formattedDate}</a></span></p>`;
       html += `<p class="text">${cleanDescription}</p>`;
       const mastodonDiv = document.getElementById('mastodon');
@@ -48,7 +45,7 @@ const getMastodonData = () => {
 
 // Stuff to do after the DOM loads
 const afterDOMLoaded = () => {
-  getMastodonData();
+  // getMastodonData();
   // Handle light or dark mode
   const mode = ls.get('mode');
   // OS default first
@@ -91,11 +88,13 @@ const afterDOMLoaded = () => {
   });
 
   // Handle Show Full Description Click
-  getById('linkFullDesc').addEventListener('click', (e) => {
-    e.preventDefault();
-    getByClass('desctoggle')[0].style.display = 'none';
-    getByClass('fulldesc')[0].style.display = 'block';
-  });
+  if (getById('linkFullDesc')) {
+    getById('linkFullDesc').addEventListener('click', (e) => {
+      e.preventDefault();
+      getByClass('desctoggle')[0].style.display = 'none';
+      getByClass('fulldesc')[0].style.display = 'block';
+    });
+  }
 };
 
 // Handle checking DOM load at different times

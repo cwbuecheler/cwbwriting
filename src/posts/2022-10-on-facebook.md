@@ -5,8 +5,6 @@ headline: On Facebook
 description: Post - On Facebook - Christopher Buecheler&rsquo;s Author Site
 ---
 
-_This post is adapted from a series of tweets I made the other day. If musings like these interest you, maybe consider [following me on Twitter](https://twitter.com/cwbuecheler/)_.
-
 In light of recent reports that Facebook is bleeding both users and revenue, I want to talk about the site and its slow slide into irrelevance, and why I believe the 2010s focus on &ldquo;Engagement&rdquo; as the most important metric for measuring site performance is responsible for that slide.
 
 &ldquo;Engagement,&rdquo; for those who don&rsquo;t know, is measured by tracking EVERYTHING A USER DOES on a site and measuring which activities keep them on the page longer. Literally every single time you click, and probably even mouse over things on Facebook, you&rsquo;re being measured.

@@ -264,13 +264,44 @@ header {
         border: solid 1px #ff0000;
       }
 
-      .twitterbox {
+      .blueskybox {
         margin-bottom: 30px;
-        height: 400px;
         width: 302px;
         max-height: 400px;
         max-width: 302px;
         overflow: auto;
+
+        
+        .wrapper {
+          position: relative;
+          text-align: right;
+
+          .pic, .pic img {
+            border-radius: 50%;
+            height: 72px;
+            width: 72px;
+            position: absolute;
+            top: 22px;
+            left: 5px;
+          }
+          .background {
+            width: 100%;
+            height: 80px;
+            background-image: url("https://cdn.bsky.social/imgproxy/fpalLqn6n4azeXXZlU9LYZ7Bp-6lSHGYdl_r7IKxhb4/rs:fill:3000:1000:1:0/plain/bafkreigr4axowod7oe5lmya4d63j7afmh232y7ganjxky5imrqiooz7yeu@jpeg");
+            background-size: cover;
+          }
+        
+          h3 {
+            border: none;
+            font-size: 1rem;
+            padding-left: 90px;
+            margin: 0;
+
+          }
+          em {
+
+          }
+        }
       }
 
       &.newsletter {
@@ -449,10 +480,11 @@ html.dark {
         max-width: 90%;
         text-align: left;
 
-        .twitterbox {
+        .blueskybox {
           max-height: 600px;
           max-width: 100%;
           width: auto;
+
         }
 
         &.newsletter {
