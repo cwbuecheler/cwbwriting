@@ -44,8 +44,7 @@ const getMastodonData = () => {
 };
 
 // Stuff to do after the DOM loads
-const afterDOMLoaded = () => {
-  // getMastodonData();
+const afterDOMLoaded = async () => {
   // Handle light or dark mode
   const mode = ls.get('mode');
   // OS default first

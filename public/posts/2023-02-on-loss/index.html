@@ -29,7 +29,7 @@
       href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="/_css/global.css?v=2022.10.02" />
+    <link rel="stylesheet" href="/_css/global.css?v=2025.01.26" />
   </head>
   <body>
         <header>
@@ -81,83 +81,18 @@
 <aside>
   <!-- Newsletter Signup -->
 
-<div class="sbwidget newsletter ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1194510" id="mlb2-1194510">
-  <div class="ml-form-align-center ">
-    <div class="ml-form-embedWrapper embedForm">
-      <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-        <div class="ml-form-embedContent">
-          <h4>Writing News</h4>
-          <p>Stay up to date on my books and stories with my spam-free, ad-free, bi-monthly newsletter!<br></p>
-        </div>
-        <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/m3i8k9" data-code="m3i8k9" method="post" target="_blank">
-          <div aria-label="Please leave the following field empty" class="ml_message_wrapper">
-            <input type="text" name="ml_message" tabindex="-1" value="" placeholder="Message" autocomplete="off" title="message">
-            <input type="text" name="ml_email" tabindex="-1" value="" placeholder="your@emailhere.com" autocomplete="off" title="email">
-            <input type="text" name="ml_name" tabindex="-1" value="" placeholder="Name" autocomplete="off" title="name">
-          </div>
-          <div class="ml-form-formContent">
-            <div class="ml-form-fieldRow ml-last-item">
-              <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
-                <input type="email" class="form-control" data-inputmask="" name="fields[email]" value="" placeholder="your@emailhere.com">
-              </div>
-            </div>
-          </div>
-          <div class="ml-form-recaptcha ml-validate-required">
-            <script async defer src="https://www.google.com/recaptcha/api.js"></script>
-            <div class="g-recaptcha" data-sitekey="6Lf1KHQUAAAAAFNKEX1hdSWCS3mRMv4FlFaNslaD" style="width: 305px; max-width:305px;"></div>
-          </div>
-          <input type="hidden" name="ml-submit" value="1">
-          <div class="ml-form-embedSubmit">
-            <button type="submit" class="primary">SUBSCRIBE</button>
-            <button disabled="disabled" style="display: none;" type="button" class="loading">
-
-                  <div class="ml-form-embedSubmitLoad"><div></div><div></div><div></div><div></div></div>
-
-                </button>
-          </div>
-        </form>
-      </div>
-      <div class="ml-form-successBody row-success" style="display: none">
-        <div class="ml-form-successContent">
-          <h4>Thank you!</h4>
-          <p>You have successfully joined our subscriber list.</p>
-        </div>
-      </div>
-    </div>
-
-  </div>
+<div class="sbwidget newsletter">
+  <h4>Writing News</h4>
+  <p>Stay up to date on my books and stories with my spam-free, ad-free, bi-monthly newsletter!</p>
+  <div class="ml-embedded" data-form="B6LAUt"></div>
 </div>
 <!-- /Newsletter Signup -->
-
-  <!-- Twitter Insert -->
+  <!-- BlueSky Insert -->
 <div class="sbwidget bluesky">
   <h4>Follow Me On BlueSky</h4>
-  <div class="blueskybox">
-    <div class="wrapper">
-        <div class="pic">
-            <a href="https://bsky.app/profile/cwbuecheler.bsky.social"><img src="https://cdn.bsky.social/imgproxy/gcdVpeSKgpjs_H4y9qzBVVnW0mwwgYckL7yybucRGdo/rs:fill:1000:1000:1:0/plain/bafkreifns67dtz73dsgzxxh5pbpuik7mmatswcud26zoram7ugzgyk22am@jpeg" alt="bluesky avatar" /></a>
-        </div>
-        <div class="background">&nbsp;</div>
-        <h3><a href="https://bsky.app/profile/cwbuecheler.bsky.social" target="_blank">Christopher Buecheler</a></h3>
-        <em><a href="https://bsky.app/profile/cwbuecheler.bsky.social" target="_blank">@cwbuecheler.bsky.social</a></em>
-    </div>
-  </div>
+    <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" /><div id="embedbsky-com-timeline-embed"></div><script>let containerWidth=396,containerHeight=600;const getHtml=async t=>{const e=await fetch(t);return 200!==e.status?'<p><strong>No feed data could be located</p></strong>':e.text()};document.addEventListener('DOMContentLoaded',(async()=>{const t=(new Date).toISOString(),e=document.getElementById('embedbsky-com-timeline-embed');e.style.width=`${containerWidth}px`,e.style.height=`${containerHeight}px`;const n=await getHtml(`https://embedbsky.com/feeds/e634485d9cfbfed9d9462a36fb6bb8df22d3e93b7260c854a93ff90e631b0a5e.html?v=${t}`);e.innerHTML=n}));</script>
 </div>
-<!-- /Twitter Insert -->
-	<!-- include 'src/_includes/mastodon.njk' -->
-  <!-- Facebook Insert -->
-<div class="sbwidget facebook">
-  <h4>Like Me On Facebook</h4>
-  <div class="fb-page" 
-    data-href="https://www.facebook.com/cwbwriting"
-    data-width="" 
-    data-height=""
-    data-adapt-container-width="true"
-    data-hide-cover="false"
-    data-show-facepile="false"></div>
-</div>
-<!-- /Facebook Insert -->
-
+<!-- /BlueSky Insert -->
 </aside>
 <!-- /Sidebar -->
 
@@ -172,12 +107,13 @@
 
   </body>
   <script async src="/_js/global.js?v=2022.12.05" async></script>
-  <div id="fb-root"></div>
-  <script
-    async
-    defer
-    crossorigin="anonymous"
-    src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0&appId=217798258378864&autoLogAppEvents=1"
-    nonce="iW5tfZiZ"
-  ></script>
-</html>
+  <!-- MailerLite Universal -->
+  <script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '529663');
+  </script>
+  <!-- End MailerLite Universal -->
+  </html>
