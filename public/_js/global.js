@@ -72,7 +72,7 @@ const afterDOMLoaded = async () => {
   getById('linkModeDark').addEventListener('click', (e) => {
     e.preventDefault();
     ls.set('mode', 'dark');
-    document.getElementsByClassName('g-recaptcha')[0].setAttribute('data-theme', 'dark');
+    // document.getElementsByClassName('g-recaptcha')[0].setAttribute('data-theme', 'dark');
     getById('htmltop').className = 'dark';
     const iframe = document.querySelector('.g-recaptcha iframe');
     iframe.src = iframe.src;
