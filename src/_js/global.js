@@ -74,16 +74,16 @@ const afterDOMLoaded = async () => {
     ls.set('mode', 'dark');
     // document.getElementsByClassName('g-recaptcha')[0].setAttribute('data-theme', 'dark');
     getById('htmltop').className = 'dark';
-    const iframe = document.querySelector('.g-recaptcha iframe');
-    iframe.src = iframe.src;
+    // const iframe = document.querySelector('.g-recaptcha iframe');
+    // iframe.src = iframe.src;
   });
   getById('linkModeLight').addEventListener('click', (e) => {
     e.preventDefault();
     ls.set('mode', 'light');
-    document.getElementsByClassName('g-recaptcha')[0].setAttribute('data-theme', 'light');
+    // document.getElementsByClassName('g-recaptcha')[0].setAttribute('data-theme', 'light');
     getById('htmltop').className = 'light';
-    const iframe = document.querySelector('.g-recaptcha iframe');
-    iframe.src = iframe.src;
+    // const iframe = document.querySelector('.g-recaptcha iframe');
+    // iframe.src = iframe.src;
   });
 
   // Handle Show Full Description Click
