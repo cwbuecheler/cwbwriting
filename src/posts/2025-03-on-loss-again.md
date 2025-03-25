@@ -9,7 +9,7 @@ description: Post - On Loss ... Again - Christopher Buecheler&rsquo;s Author Sit
 
 The best cat is your cat. Let's put that out there, first. The best cat is always _your_ cat.
 
-&hellip; but Baron was the best cat. I think this is true on an objective scale. He was sweet, and kind, and loving, and followed you from room to room just to be close to you, and made little inquisitve chirping noises, and up until just the very end he wasn't demanding, or dirty, or hard to care for. In his prime he was an athlete. I once saw that dude leap four feet into the air and bat a moth to the ground. This was not a small cat! He was more Shaq than MJ, but nonetheless. Athlete.
+&hellip; but Baron was the best cat. I think this is true on an objective scale. He was sweet, and kind, and loving, and followed you from room to room just to be close to you, and made little inquisitive chirping noises, and up until just the very end he wasn't demanding, or dirty, or hard to care for. In his prime he was an athlete. I once saw that dude leap four feet into the air and bat a moth to the ground. This was not a small cat! He was more Shaq than MJ, but nonetheless. Athlete.
 
 He did leave an occasional ball of poop on the floor when it got stuck in his ass hair, but listen, nobody's perfect. I didn't say he was the perfect cat. I said he was the best cat.
 
