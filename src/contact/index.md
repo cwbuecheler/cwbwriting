@@ -11,7 +11,3 @@ Got something to say? Have thoughts on one of my books? Want to ask me a questio
 Mail me at <span id="contactemail"></span>
 
 [Follow me on BlueSky](https://bsky.app/profile/cwbuecheler.bsky.social)
-
-[Follow me on Mastodon](https://mastodon.social/@cwbuecheler)
-
-[Message me on Facebook](https://www.facebook.com/cwbwriting/)
