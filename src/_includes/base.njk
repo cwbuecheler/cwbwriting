@@ -30,6 +30,11 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="/_css/global.css?v=2025.01.26" />
+    <!-- Opengraph -->
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:type" content="post" />
+    <meta property="og:url" content="{{description}}" />
+    {% if image %}<meta property="og:image" content="{{image}}" />{% endif %}
   </head>
   <body>
     {% include 'src/_includes/header.njk' %}

@@ -2,7 +2,8 @@
 day: 10/22/2025
 title: Let's Talk about Silksong | Post | CWB Writing
 headline: Let's Talk about Silksong
-description: Post - Let's Talk about Silksong - Christopher Buecheler&rsquo;s Author Site
+description: Post - Hollow Knight Silksong is an incredible title that suffers from a few significant flaws - Christopher Buecheler's Author Site
+image: /_img/silksong/silksong1.jpg
 ---
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
