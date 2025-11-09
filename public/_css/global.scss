@@ -1,3 +1,4 @@
+@import 'kit';
 @import 'normalize';
 
 /* BASICS ============================================== */
@@ -312,7 +313,7 @@ header {
           width: 100%;
 
           &::placeholder {
-            color: #b2deff;
+            color: #444444;
           }
         }
         .ml-form-embedSubmit {
