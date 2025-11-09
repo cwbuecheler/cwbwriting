@@ -12,6 +12,7 @@ Most of my writing is longform fiction or, to put it more succinctly: novels. I'
 
 These novels are available in print and as eBooks on a wide variety of platforms through several booksellers. Please check out the individual book's page for information on purchasing it.
 
+<a name="elixir"></a>
 #### [Elixir](/books/elixir/)
 
 <div class="image-cover-elixir ir"><a href="/books/elixir/"><img srcset="/_img/books/elixir_sm@2x.jpg 2x, /_img/books/elixir_sm.jpg 1x" src="/_img/books/elixir_sm.jpg" alt="Elixir Cover Image" /></a></div>
@@ -31,6 +32,7 @@ In the process, he’ll stumble into a conspiracy that stretches far beyond the 
 
 [Get It Now](/books/elixir/)
 
+<a name="thebrokengodmachine"></a>
 #### [The Broken God Machine](/books/thebrokengodmachine/)
 
 <div class="image-cover-tbgm ir"><a href="/books/thebrokengodmachine/"><img srcset="/_img/books/tbgm_sm@2x.jpg 2x, /_img/books/tbgm_sm.jpg 1x" src="/_img/books/tbgm_sm.jpg" alt="The Broken God Machine Cover Image" /></a></div>
@@ -50,6 +52,7 @@ High above them both, the metal thing awaits.
 
 [Get It Now](/books/thebrokengodmachine/)
 
+<a name="the2amtrilogy"></a>
 #### [The 2 AM Trilogy](/books/2amtrilogy/)
 
 <div class="image-cover-trilogy ir"><a href="/books/2amtrilogy/"><img srcset="/_img/books/trilogy_sm@2x.jpg 2x, /_img/books/trilogy_sm.jpg 1x" src="/_img/books/trilogy_sm.jpg" alt="The 2 AM Trilogy Cover Image" /></a></div>
@@ -60,6 +63,7 @@ The 2 AM Trilogy is a set of action-oriented vampire novels that have received a
 
 It consists of the following three books:
 
+<a name="thebloodthatbonds"></a>
 ##### [The Blood That Bonds](/books/thebloodthatbonds/)
 
 <div class="image-cover-tbtb ir"><a href="/books/thebloodthatbonds/"><img srcset="/_img/books/tbtb_sm@2x.jpg 2x, /_img/books/tbtb_sm.jpg 1x" src="/_img/books/tbtb_sm.jpg" alt="The Blood That Bonds Cover Image" /></a></div>
@@ -79,6 +83,7 @@ His blood can cure her addiction, grant her powers she has never had, change her
 
 [Get It Now](/books/thebloodthatbonds/)
 
+<a name="bloodhunt"></a>
 ##### [Blood Hunt](/books/bloodhunt/)
 
 <div class="image-cover-bloodhunt ir"><a href="/books/bloodhunt/"><img srcset="/_img/books/bloodhunt_sm@2x.jpg 2x, /_img/books/bloodhunt_sm.jpg 1x" src="/_img/books/bloodhunt_sm.jpg" alt="Blood Hunt Cover Image" /></a></div>
@@ -92,6 +97,7 @@ His blood can cure her addiction, grant her powers she has never had, change her
 
 [Get It Now](/books/bloodhunt/)
 
+<a name="thechildrenofthesun"></a>
 ##### [The Children of the Sun](/books/thechildrenofthesun/)
 
 <div class="image-cover-tcots ir"><a href="/books/thechildrenofthesun/"><img srcset="/_img/books/tcots_sm@2x.jpg 2x, /_img/books/tcots_sm.jpg 1x" src="/_img/books/tcots_sm.jpg" alt="The Children of the Sun Cover Image" /></a></div>
@@ -109,6 +115,7 @@ His blood can cure her addiction, grant her powers she has never had, change her
 
 These novels are not yet available. In some cases, they are "in the trunk" after an unsuccessful attempt to land literary representation. In others, they are in active querying, attempting to land literary representation. In still others, they are still in works in progress but have gotten far enough on the path to be listed here (ie: the first draft is done).
 
+<a name="pietytheknife"></a>
 ##### Piety the Knife
 
 Piety the Knife is one of the Seven Servants of the Ageless Queen, a group brutally winnowed from their peers and trained for a singular purpose: to return the Queen to her throne.
@@ -121,18 +128,30 @@ As Piety comes to value his friends, both those who’ve fallen and those who re
 
 - **Genre**: Dark Fantasy
 - **Length**: Roughly 425 Pages
-- **Series**: Intended as the First In a Trilogy
-- **Status**: Preparing to Submit to Publishers
+- **Series**: The Ageless Queen Book 1
+- **Status**: Waiting to Submit to Publishers
 
+<a name="pietysequel"></a>
 ##### Sequel to Piety the Knife
 
 Describing this book (or giving away its title) would involve a fairly significant spoiler for Piety the Knife, so for now I'm keeping it under wraps!
 
 - **Genre**: Dark Fantasy
 - **Length**: Roughly 475 Pages
-- **Series**: Intended as the Second In a Trilogy
-- **Status**: First Draft Finished and Out for Comments
+- **Series**: The Ageless Queen Book 2
+- **Status**: Second Draft Ready to Go
 
+<a name="pietysequeltwo"></a>
+##### Second Sequel to Piety the Knife
+
+Again, there'd be significant spoilers here if I revealed the name or the plot, so for the moment, this is going to stay vague.
+
+- **Genre**: Dark Fantasy
+- **Length**: Expected to be about 350-375 pages
+- **Series**: The Ageless Queen Book 3
+- **Status**: First Draft Started
+
+<a name="possessed"></a>
 ##### Possessed
 
 Some girls go to college after high school. Amber Pérez joined a cult. After the car crash, after she lost her brother, nothing seemed to matter anymore. So when the only friend she had left said, you wanna hang out in some parks, smoke some weed, maybe spray-paint some anarchy signs? Amber said, sure. Why not? None of it was, like, for real.
@@ -148,8 +167,9 @@ Helping people not die is a serious motivator, so Amber and Jayuul hatch a plan 
 - **Genre:** Contemporary Fantasy
 - **Length:** Roughly 400 pages
 - **Series:** Standalone
-- **Status:** "In the Trunk" for Now
+- **Status:** Preparing to Self-Publish
 
+<a name="divergencepoint"></a>
 ##### Divergence Point
 
 Humanity picked a fight with the first alien species it encountered, and those aliens kicked humanity’s ass. That was twenty-five years ago. Things have been difficult since.
@@ -169,6 +189,7 @@ If only they liked each other.
 - **Series:** Intended as the First in a Trilogy
 - **Status:** "In the Trunk" for Now
 
+<a name="pulse"></a>
 ##### Pulse
 
 While Raine Doubek slept face-down on the marble floor of the Ritz-Carlton Philadelphia, the world went to hell. Now she’s awake and caught in a brutal new reality in which hordes of crazed and homicidal half-humans roam the city, pausing in their madness only to raise their voices as one and sing to the heavens. As if the Singers weren’t enough, there are also the Hunters, murderous men and women who’ve been waiting their entire lives for the apocalypse.
@@ -182,6 +203,7 @@ Faced with danger at every turn and relying on the help of other survivors she�
 - **Series:** Untitled Series Book 1
 - **Status:** "In the Trunk" for Now
 
+<a name="thewerewolfatthewindow"></a>
 ##### The Werewolf at the Window
 
 When the werewolf broke down her front door and killed her parents, thirteen year-old Morgan Skylark was supposed to die, too. Instead, she found within herself an inexplicable ability to focus to the point that time seems to slow. Now, the werewolf lies at her feet, a smoking silver letter opener punched through its throat, and behind her stands a man who will invite her to be trained as he has: to find the monsters that prowl the world, to study them and, when necessary, to hunt them down. Morgan embarks upon a new life as a monster hunter, but there is a problem: Morgan Skylark was supposed to die, and someone out there knows it.
