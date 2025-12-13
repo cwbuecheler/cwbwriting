@@ -147,9 +147,9 @@ Describing this book (or giving away its title) would involve a fairly significa
 Again, there'd be significant spoilers here if I revealed the name or the plot, so for the moment, this is going to stay vague.
 
 - **Genre**: Dark Fantasy
-- **Length**: Expected to be about 350-375 pages
+- **Length**: Roughly 385 PAges
 - **Series**: The Ageless Queen Book 3
-- **Status**: First Draft Started
+- **Status**: First Draft Finished
 
 <a name="possessed"></a>
 ##### Possessed
