@@ -210,15 +210,29 @@ header {
       }
     }
 
-    ol.postlist {
-      list-style-type: none;
+    table.postlist {
       margin: 0 0 1em 0;
       padding: 0;
+      font-size: 1rem;
+      width: 100%;
+      min-width: 100%;
 
-      time {
-        display: inline-block;
+      tr {
+        margin: 0;
+        padding: 0;
+      }
+      .postlist-date {
         font-size: 0.8125rem;
-        width: 140px;
+        width: 170px;
+        background-color: #dedede;
+      }
+      td {
+        line-height: 1.2;
+        vertical-align: top;
+        margin: 0;
+        padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+        background-color: #f3f3f3;
+        font-size: 0.8125rem;
       }
     }
 
@@ -272,12 +286,12 @@ header {
         max-width: 400px;
         overflow: auto;
 
-        
         .wrapper {
           position: relative;
           text-align: right;
 
-          .pic, .pic img {
+          .pic,
+          .pic img {
             border-radius: 50%;
             height: 72px;
             width: 72px;
@@ -288,19 +302,17 @@ header {
           .background {
             width: 100%;
             height: 80px;
-            background-image: url("https://cdn.bsky.social/imgproxy/fpalLqn6n4azeXXZlU9LYZ7Bp-6lSHGYdl_r7IKxhb4/rs:fill:3000:1000:1:0/plain/bafkreigr4axowod7oe5lmya4d63j7afmh232y7ganjxky5imrqiooz7yeu@jpeg");
+            background-image: url('https://cdn.bsky.social/imgproxy/fpalLqn6n4azeXXZlU9LYZ7Bp-6lSHGYdl_r7IKxhb4/rs:fill:3000:1000:1:0/plain/bafkreigr4axowod7oe5lmya4d63j7afmh232y7ganjxky5imrqiooz7yeu@jpeg');
             background-size: cover;
           }
-        
+
           h3 {
             border: none;
             font-size: 1rem;
             padding-left: 90px;
             margin: 0;
-
           }
           em {
-
           }
         }
       }
@@ -485,7 +497,6 @@ html.dark {
           max-height: 600px;
           max-width: 100%;
           width: auto;
-
         }
 
         &.newsletter {

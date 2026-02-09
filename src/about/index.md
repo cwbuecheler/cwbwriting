@@ -22,17 +22,17 @@ description: About Me - Christopher Buecheler's Author Site
 
 I'm flattered, truly. Let's start with my standard author bio:
 
-> Christopher Buecheler is a novelist, a web developer, an award-winning amateur mixologist, a developing illustrator, a player of the guitar and drums, an enjoyer of video games, and an NBA enthusiast. He lives a semi-nomadic existence with his wonderful French wife and their two cats, Carbomb and Baron Salvatore H. Lynx II. Currently they reside in Providence, RI.
+> Christopher Buecheler is a novelist, a web developer, an award-winning amateur mixologist, a developing illustrator, a musician, an enjoyer of video games, and an NBA enthusiast. He lives a semi-nomadic existence with his wonderful French wife. Currently they reside in Saint-Cloud, France, just outside of Paris.
 
-Aside from all that, I'm in my mid-forties, I listen to a fairly narrow spectrum of mostly rock music, I work out and run on weekdays, I'm vocally progressive, and I spend too much time on BlueSky.
+Aside from all that, I'm in my late-forties, I listen to a fairly narrow spectrum of mostly rock music, I work out and run on weekdays, I'm vocally progressive, and I spend too much time on BlueSky.
 
 #### Semi-Nomadic?
 
-I've been based in Providence for eleven years, which is the longest I've lived in a single location in my entire life. Not counting moves to a new place within the same city, I've lived in twelve towns across six states and one other country: Massachusetts, New York (upstate and city), California, Pennsylvania, Indiana, Rhode Island, and France. I also travel frequently, particularly to Europe. I regularly work and write on these trips, so as a whole the lifestyle feels fairly nomadic. But we do spend a lot of time in Providence! Thus the _semi_.
+Not counting moves to a new place within the same city, I've lived in thirteen towns across six states and one other country: Massachusetts, New York (upstate and city), California, Pennsylvania, Indiana, Rhode Island, and France. I also travel frequently, particularly to Europe. I regularly work and write on these trips, so as a whole the lifestyle feels fairly nomadic. And we're about to move to a new town in France this summer.
 
 #### What about this web developer stuff?
 
-I've been designing and building websites professionally for twenty-five years. It pays the bills, and it's also something I actually enjoy doing. I designed and built this site using custom HTML, CSS, JavaScript, Markdown, and the static site generator Eleventy. If you want to learn more about my work, you can check out <a href="https://linkedin.com/in/cwbuecheler" target="_blank">my LinkedIn</a>.
+I've been designing and building websites professionally for twenty-five years. It pays the bills, and it's also something I actually enjoy doing. I designed and built this site using custom HTML, CSS, JavaScript, Markdown, and the static site generator Eleventy. If you want to learn more about my work, you can check out <a href="https://sloebrace.com" target="_blank">my professional site</a>.
 
 #### Cool, cool. And the hobbies?
 
@@ -55,9 +55,10 @@ Oh, and the video games thing. Here are my top ten ever and my current favorites
 
 ##### Current Favorites
 
+- Hollow Knight: Silksong (PC)
+- Perfect Tides / Perfect Tides Station to Station (PC)
 - Elden Ring (PC)
-- The Assassin's Creed series (PC)
-- God of War 2018 (PS4)
+- Some of The Assassin's Creed series (PC)
 - Disco Elysium (PC)
 - The Dishonored Series (PC)
 - The Mass Effect Series (Xbox 360)
