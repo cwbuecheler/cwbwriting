@@ -3,7 +3,11 @@ day: 02/09/2026
 title: I'm Looking for a Cover Artist! | Post | CWB Writing
 headline: I'm Looking for a Cover Artist!
 description: Post - I'm looking for a cover artist for my contemporary fantasy/comedy Possessed - Christopher Buecheler's Author Site
+image: /_img/possessed/possessed_search.jpg
 ---
+
+<div style="width: 100%; max-width: 1200px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
+<img src="/_img/possessed/possessed_search.jpg" alt="An image of Miami by night, its art deco architecture all lit up in blue and pink neons." style="width: 100%; margin: 0 0 2px 0; padding: 0;">photo credit: <a href="https://unsplash.com/@zombience?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Spencer</a> on <a href="https://unsplash.com/photos/street-during-night-Um9AkOiIDcU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
 ##### The Brief
 
