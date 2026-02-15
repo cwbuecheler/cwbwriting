@@ -9,6 +9,10 @@ image: /_img/possessed/possessed_search.jpg
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
 <img src="/_img/possessed/possessed_search.jpg" alt="An image of Miami by night, its art deco architecture all lit up in blue and pink neons." style="width: 100%; margin: 0 0 2px 0; padding: 0;">photo credit: <a href="https://unsplash.com/@zombience?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Spencer</a> on <a href="https://unsplash.com/photos/street-during-night-Um9AkOiIDcU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
+<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
+<strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
+</div>
+
 ##### The Brief
 
 This is not a contest. I am not asking you to submit work for free. I'm not asking you to draw anything new before we begin working together. This is a paid commission opportunity for a commercial project. I'm just trying to find the right artist for the job.
@@ -47,7 +51,7 @@ After signing:
 Contact info follows but I **strongly recommend reading on** before applying!
 
 <div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
-<strong>Contact:</strong> Go to my <a href="/contact">contact page</a> and send me an email with a link to your portfolio or samples of your work and any questions you have. If you have a résumé or LinkedIn, feel free to send it. Please include "Possessed Cover" in the subject line. <strong>BlueSky DMs will not be considered, sorry! Email only!</strong>
+<strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
 </div>
 
 **References:** I have worked in the past with <a href="https://www.karlaortizart.com/" target="_blank">Karla Ortiz</a>, <a href="https://crmacternan.blogspot.com/" target="_blank">Christine MacTernan</a>, <a href="https://www.artstation.com/morano" target="_blank">Thomasz Jedruszek</a>, and <a href="https://www.artstation.com/adriandadich" target="_blank">Adrian Dadich</a>, among other artists. They'll vouch that I pay on time and in full, and am easy to work with!
@@ -146,5 +150,5 @@ Here are some examples of wrap-around covers:
 </div>
 
 <div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
-<strong>Contact:</strong> Go to my <a href="/contact">contact page</a> and send me an email with a link to your portfolio or samples of your work and any questions you have. If you have a résumé or LinkedIn, feel free to send it. Please include "Possessed Cover" in the subject line. <strong>BlueSky DMs will not be considered, sorry! Email only!</strong>
+<strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
 </div>
