@@ -86,7 +86,7 @@
 <h4>I'm Looking for a Cover Artist!</h4>
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
 <img src="/_img/possessed/possessed_search.jpg" alt="An image of Miami by night, its art deco architecture all lit up in blue and pink neons." style="width: 100%; margin: 0 0 2px 0; padding: 0;">photo credit: <a href="https://unsplash.com/@zombience?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Spencer</a> on <a href="https://unsplash.com/photos/street-during-night-Um9AkOiIDcU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
-<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
+<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem; color: #333;">
 <strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
 </div>
 <h5>The Brief</h5>
@@ -117,7 +117,7 @@
     <li>Indefinite permission to use the image for both eBook and print covers, as well as promotional materials (social media posts, ads, etc). You will retain the copyright to the work and will be credited in all formats where the cover appears.</li>
 </ul>
 <p>Contact info follows but I <strong>strongly recommend reading on</strong> before applying!</p>
-<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
+<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem; color: #333;">
 <strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
 </div>
 <p><strong>References:</strong> I have worked in the past with <a href="https://www.karlaortizart.com/" target="_blank">Karla Ortiz</a>, <a href="https://crmacternan.blogspot.com/" target="_blank">Christine MacTernan</a>, <a href="https://www.artstation.com/morano" target="_blank">Thomasz Jedruszek</a>, and <a href="https://www.artstation.com/adriandadich" target="_blank">Adrian Dadich</a>, among other artists. They'll vouch that I pay on time and in full, and am easy to work with!</p>
@@ -258,7 +258,26 @@
   <!-- BlueSky Insert -->
 <div class="sbwidget bluesky">
   <h4>Follow Me On BlueSky</h4>
-    <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" /><div id="embedbsky-com-timeline-embed"></div><script>let containerWidth=396,containerHeight=1000;const getHtml=async t=>{const e=await fetch(t);return 200!==e.status?'<p><strong>No feed data could be located</p></strong>':e.text()};document.addEventListener('DOMContentLoaded',(async()=>{const t=(new Date).toISOString(),e=document.getElementById('embedbsky-com-timeline-embed');e.style.width=`${containerWidth}px`,e.style.height=`${containerHeight}px`,e.style.maxWidth='100%';const n=await getHtml(`https://embedbsky.com/feeds/e634485d9cfbfed9d9462a36fb6bb8df22d3e93b7260c854a93ff90e631b0a5e.html?v=${t}`);e.innerHTML=n}));</script>
+  <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css?v=2026.03.13"/><div id="embedbsky-com-timeline-embed" class="hasfooter"></div>
+  <script>
+    let containerWidth = 396,
+      containerHeight = 1000;
+    const getHtml = async t => {
+      const e = await fetch(t);
+      return 200 !== e.status
+        ? '<p><strong>No feed data could be located</p></strong>'
+        : e.text()
+    };
+    document.addEventListener('DOMContentLoaded', (async () => {
+      const t = (new Date).toISOString(),
+        e = document.getElementById('embedbsky-com-timeline-embed');
+      e.style.width = `${containerWidth}px`,
+      e.style.height = `${containerHeight}px`,
+      e.style.maxWidth = '100%';
+      const n = await getHtml(`https://embedbsky.com/feeds/e634485d9cfbfed9d9462a36fb6bb8df22d3e93b7260c854a93ff90e631b0a5e.html?v=${t}`);
+      e.innerHTML = n
+    }));
+  </script>
 </div>
 <!-- /BlueSky Insert -->
 </aside>

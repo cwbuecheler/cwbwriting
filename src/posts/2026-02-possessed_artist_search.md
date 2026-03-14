@@ -9,7 +9,7 @@ image: /_img/possessed/possessed_search.jpg
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
 <img src="/_img/possessed/possessed_search.jpg" alt="An image of Miami by night, its art deco architecture all lit up in blue and pink neons." style="width: 100%; margin: 0 0 2px 0; padding: 0;">photo credit: <a href="https://unsplash.com/@zombience?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Spencer</a> on <a href="https://unsplash.com/photos/street-during-night-Um9AkOiIDcU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
+<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem; color: #333;">
 <strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
 </div>
 
@@ -50,7 +50,7 @@ After signing:
 
 Contact info follows but I **strongly recommend reading on** before applying!
 
-<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem;">
+<div style="padding: 10px; background-color: #c3e5ff; border: 1px solid #64bcff; margin-bottom: 1rem; color: #333;">
 <strong>Thank you all for applying!</strong> I've received over a hundred amazing applications, and am deeply touched that so many incredible artists were excited about this project. I wish I was able to work with all of you. I've narrowed the field down to a few finalists, and I don't want to give false hope to anyone stumbling on this post, so I'm closing applications. Want to see the final cover, learn more about Possessed's upcoming release, or be notified when I have future projects? Sign up for my newsletter using the box in the sidebar to stay in the loop!
 </div>
 
