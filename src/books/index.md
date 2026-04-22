@@ -12,6 +12,29 @@ Most of my writing is longform fiction or, to put it more succinctly: novels. I'
 
 These novels are available in print and as eBooks on a wide variety of platforms through several booksellers. Please check out the individual book's page for information on purchasing it.
 
+<a name="possessed"></a>
+
+##### [Possessed](/books/possessed/)
+
+<div class="image-cover-possessed ir"><a href="/books/possessed/"><img srcset="/_img/books/possessed_sm@2x.jpg 2x, /_img/books/possessed_sm.jpg 1x" src="/_img/books/possessed_sm.jpg" alt="Possessed Cover Image" /></a></div>
+
+Some girls go to college after high school. Amber Pérez joined a cult. After the car crash, after she lost her brother, nothing seemed to matter anymore. So when the only friend she had left said, <em>you wanna hang out in some parks, smoke some weed, maybe spray-paint some anarchy signs</em>? Amber said, <em>Sure</em>. Why not? None of it was, like, for real.
+
+That was before Matthias took over. Before he found The Book. Before the ritual.
+
+All it took was one accidental step on the pentagram and, whoops, the demon Matthias meant for himself bonded with her instead. Jayuul’s a jerk who loves projectile vomiting on command and hurting people, but she can’t get rid of him. Worse, Matthias will literally set her on fire if he finds out, and she can’t even tell her friends, because Shannon’s banging him (ugh), and Dylan’s his second in command. She wants out of the whole thing, but where would she go? She lives on Shannon’s couch!
+
+When Amber witnesses another crash, it feels like losing her brother all over again, until she learns she can heal people just as easily as hurt them. The demon’s always had these powers; he’s just never had a host who wanted to use them. No one’s more surprised than him to find out he actually likes doing so.
+
+Helping people not die is a serious motivator, so Amber and Jayuul hatch a plan to keep Matthias from terrorizing Miami with black magic and chemical bombs. She just has to juggle her friends’ suspicion, Matthias’s growing madness, the flirtations of local celebrity and kidnapping victim “Kitty Kim” Alexander, the police, the church, and a betrayal she never would’ve expected. No problem, right?
+
+- **Genre:** Contemporary Fantasy
+- **Length:** 360 pages
+- **Series:** Standalone
+- **Status:** Release Date: June 18th, 2026
+
+[Learn More & Pre-Order Now!](/books/possessed/)
+
 <a name="elixir"></a>
 
 #### [Elixir](/books/elixir/)
@@ -119,7 +142,7 @@ His blood can cure her addiction, grant her powers she has never had, change her
 
 #### Unpublished Work
 
-These novels are not yet available. In some cases, they are "in the trunk" after an unsuccessful attempt to land literary representation. In others, they are in active querying, attempting to land literary representation. In still others, they are still in works in progress but have gotten far enough on the path to be listed here (ie: the first draft is done).
+These novels are not yet available. In some cases, they are "in the trunk" after an unsuccessful attempt to land literary representation. In others, I'm working with my agent to sell them to traditional publishers. In still others, they are still in works in progress but have gotten far enough on the path to be listed here (ie: the first draft is done).
 
 <a name="pietytheknife"></a>
 
@@ -159,27 +182,6 @@ Again, there'd be significant spoilers here if I revealed the name or the plot, 
 - **Length**: Roughly 385 PAges
 - **Series**: The Ageless Queen Book 3
 - **Status**: First Draft Finished
-
-<a name="possessed"></a>
-
-##### Possessed
-
-Some girls go to college after high school. Amber Pérez joined a cult. After the car crash, after she lost her brother, nothing seemed to matter anymore. So when the only friend she had left said, you wanna hang out in some parks, smoke some weed, maybe spray-paint some anarchy signs? Amber said, sure. Why not? None of it was, like, for real.
-
-That was before Matthias took over. Before he found The Book. Before the ritual.
-
-All it took was one accidental step on the pentagram and, whoops, the demon Matthias meant for himself bonded with her instead. Jayuul’s a jerk who loves projectile vomiting on command and hurting people, but she can’t get rid of him. Worse, Matthias will literally set her on fire if he finds out, and she can’t even tell her friends, because Shannon’s banging him (ugh), and Dylan’s his second in command. She wants out of the whole thing, but where would she go? She lives on Shannon’s couch!
-
-When Amber witnesses another crash, it feels like losing her brother all over again, until she learns she can heal people just as easily as hurt them. The demon’s always had these powers; he’s just never had a host who wanted to use them. No one’s more surprised than him to find out he actually likes doing so.
-
-Helping people not die is a serious motivator, so Amber and Jayuul hatch a plan to keep Matthias from terrorizing Miami with black magic and chemical bombs. She just has to juggle her friends’ suspicion, Matthias’s growing madness, the flirtations of local celebrity and kidnapping victim “Kitty Kim” Alexander, the police, the church, and a betrayal she never would’ve expected. No problem, right?
-
-- **Genre:** Contemporary Fantasy
-- **Length:** Roughly 400 pages
-- **Series:** Standalone
-- **Status:** Preparing to Self-Publish
-
-[Learn More](/books/possessed/)
 
 <a name="divergencepoint"></a>
 

@@ -344,6 +344,31 @@ header {
   }
 }
 
+.book-nav {
+  display: flex;
+  gap: 8px;
+  margin: 0 0 1.5em 0;
+}
+.book-nav-btn,
+.book-nav-btn:link,
+.book-nav-btn:visited {
+  background: #0482e5;
+  border: none;
+  border-radius: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: inherit;
+  font-size: 0.9rem;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.book-nav-btn:hover {
+  background: #036bbf;
+  border-bottom: none;
+  color: #fff;
+}
+
 /* FOOTER ============================================== */
 footer {
   margin: 0;
