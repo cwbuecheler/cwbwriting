@@ -6,7 +6,7 @@ description: Novels / Books Index - Christopher Buecheler's Author Site
 
 ### Books
 
-Most of my writing is longform fiction or, to put it more succinctly: novels. I've written eleven so far. Five are available. All of them are listed here!
+Most of my writing is longform fiction or, to put it more succinctly: novels. I've written twelve so far. six are available. All of them are listed here!
 
 #### Published Work
 

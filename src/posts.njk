@@ -12,17 +12,12 @@ description: Blog Posts Archive - Christopher Buecheler's Author Site
 
 {% set postslist = collections.posts | sortByDate() %}
 
-<table class="postlist">
-  <tbody>
-    {% for post in postslist %}
-    <tr class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-      <td class="postlist-date" datetime="{{ post.data.day }}">{{ post.data.day | readableDate }}</td>
-      <td><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.headline %}{{ post.data.headline }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<ul class="postlist">
+  {% for post in postslist %}
+  <li class="postlist-item">
+    <h4 datetime="{{ post.data.day }}">{{ post.data.day | readableDate }}</h4>
+    <a href="{{ post.url | url }}">{% if post.data.headline %}{{ post.data.headline }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+  </li>
+  {% endfor %}
+</ul>
 
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>

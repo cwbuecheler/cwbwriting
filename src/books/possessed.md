@@ -8,8 +8,8 @@ description: Possessed, a contemporary fantasy novel brimming with humor - Chris
 
 <div class="book-nav">
   <a class="book-nav-btn" href="#description">Description</a>
-  <a class="book-nav-btn" href="#characters">Characters</a>
   <a class="book-nav-btn" href="#preorder">Pre-Order Now</a>
+  <a class="book-nav-btn" href="#characters">Characters</a>
 </div>
 
 <a name="description"></a>
@@ -33,6 +33,37 @@ Helping people not die is a _serious_ motivator, so Amber and Jayuul hatch a pla
 - **Series:** Standalone
 - **Rating:** (Pre-Release)
 
+<a name="preorder"></a>
+
+#### eBook - $3.99 - PRE-ORDER NOW!
+
+- [Amazon (US)](https://www.amazon.com/dp/B0GX2WJ8FP)
+- [Amazon (CA)](https://www.amazon.ca/dp/B0GX2WJ8FP)
+- [Amazon (UK)](https://www.amazon.co.uk/dp/B0GX2WJ8FP)
+- [Amazon (AU)](https://www.amazon.com.au/dp/B0GX2WJ8FP)
+- [Amazon (DE)](https://www.amazon.de/dp/B0GX2WJ8FP)
+- [Amazon (FR)](https://www.amazon.fr/dp/B0GX2WJ8FP)
+- [Amazon (JP)](https://www.amazon.co.jp/dp/B0GX2WJ8FP)
+- [Amazon (ES)](https://www.amazon.es/dp/B0GX2WJ8FP)
+- [Amazon (IT)](https://www.amazon.it/dp/B0GX2WJ8FP)
+- [Amazon (NL)](https://www.amazon.nl/dp/B0GX2WJ8FP)
+- [Amazon (BR)](https://www.amazon.com.br/dp/B0GX2WJ8FP)
+- [Amazon (MX)](https://www.amazon.com.mx/dp/B0GX2WJ8FP)
+- [Amazon (IN)](https://www.amazon.in/dp/B0GX2WJ8FP)
+- [Barnes & Noble](https://www.barnesandnoble.com/w/possessed-christopher-buecheler/1149932502?ean=2940184961460)
+- [Smashwords](https://www.smashwords.com/books/view/2026828)
+- [Kobo](https://www.kobo.com/us/en/ebook/possessed-89)
+- [Apple Books](https://books.apple.com/us/book/possessed/id6767580750)
+- [Bookshop.org](https://bookshop.org/p/books/possessed-christopher-buecheler/a1cbdb782227462d)
+- [Books2Read](https://books2read.com/u/mqjWy2)
+- [Vivlio](https://shop.vivlio.com/product/9780988470866_9780988470866_10020/possessed)
+- [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/A1079744795)
+
+#### Print - $12.99
+
+- Pre-Orders aren't supported, stop back on June 18th!
+- I'll also be making signed copies available for purchase on my website, so if you want one of those, stay tuned for the announcement!
+
 <a name="characters"></a>
 
 #### About the Characters
@@ -53,37 +84,6 @@ Suddenly, she's got more important things to worry about than those nachos.
 Jayuul is not visible to anyone in the outside world, and most commonly manifests as a voice in Amber's head. However, he can appear to her when she looks in mirrors, as a nebulous dark shape with glowing red eyes superimposed over her own body. He is sarcastic and initially unimpressed with Amber. The two of them can't wait to be rid of each other. At least at first.
 
 **(More characters coming soon!)**
-
-<a name="preorder"></a>
-
-#### eBook - $3.99 - PRE-ORDER NOW!
-
-- [Amazon (US)](https://www.amazon.com/dp/B0GX2WJ8FP)
-- [Amazon (CA)](https://www.amazon.ca/dp/B0GX2WJ8FP)
-- [Amazon (UK)](https://www.amazon.co.uk/dp/B0GX2WJ8FP)
-- [Amazon (AU)](https://www.amazon.com.au/dp/B0GX2WJ8FP)
-- [Amazon (DE)](https://www.amazon.de/dp/B0GX2WJ8FP)
-- [Amazon (FR)](https://www.amazon.fr/dp/B0GX2WJ8FP)
-- [Amazon (JP)](https://www.amazon.co.jp/dp/B0GX2WJ8FP)
-- [Amazon (ES)](https://www.amazon.es/dp/B0GX2WJ8FP)
-- [Amazon (IT)](https://www.amazon.it/dp/B0GX2WJ8FP)
-- [Amazon (NL)](https://www.amazon.nl/dp/B0GX2WJ8FP)
-- [Amazon (BR)](https://www.amazon.com.br/dp/B0GX2WJ8FP)
-- [Amazon (MX)](https://www.amazon.com.mx/dp/B0GX2WJ8FP)
-- [Amazon (IN)](https://www.amazon.in/dp/B0GX2WJ8FP)
-- [Barnes & Noble](https://www.barnesandnoble.com/w/possessed-christopher-buecheler/1149932502?ean=2940184961460)
-
-### eBook - $3.99 - Other Platforms Coming Soon!
-
-- Apple
-- Smashwords
-- Kobo
-- More
-
-#### Print - $12.99
-
-- Pre-Orders aren't supported, stop back on June 18th!
-- I'll also be making signed copies available for purchase on my website, so if you want one of those, stay tuned for the announcement!
 
 ### Praise for Possessed
 

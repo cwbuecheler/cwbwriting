@@ -43,6 +43,37 @@ const getMastodonData = () => {
     });
 };
 
+const handleContactForm = async (e) => {
+  e.preventDefault();
+  const form = e.target;
+  const resultEl = getById('contactform-result');
+  const submitBtn = form.querySelector('button[type="submit"]');
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Sending...';
+  resultEl.className = 'contactform-result';
+  resultEl.textContent = '';
+  try {
+    const response = await fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      body: new FormData(form),
+    });
+    const json = await response.json();
+    if (json.success) {
+      form.innerHTML =
+        '<div class="contactform-result contactform-result--success">Thanks for reaching out! I\'ll get back to you soon.</div>';
+      return;
+    } else {
+      resultEl.classList.add('contactform-result--error');
+      resultEl.textContent = 'Something went wrong. Please try again or email me directly.';
+    }
+  } catch {
+    resultEl.classList.add('contactform-result--error');
+    resultEl.textContent = 'Something went wrong. Please try again or email me directly.';
+  }
+  submitBtn.disabled = false;
+  submitBtn.textContent = 'Send Message';
+};
+
 // Stuff to do after the DOM loads
 const afterDOMLoaded = async () => {
   // Handle light or dark mode
@@ -58,7 +89,8 @@ const afterDOMLoaded = async () => {
     }
   };
   // OS default first
-  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const prefersDark =
+    window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
   setMode(prefersDark);
   // Localstorage overwrites OS pref
   if (mode === 'light') {
@@ -86,6 +118,11 @@ const afterDOMLoaded = async () => {
     ls.set('mode', 'light');
     setMode(false);
   });
+
+  // Handle contact form
+  if (getById('contactform')) {
+    getById('contactform').addEventListener('submit', handleContactForm);
+  }
 
   // Handle Show Full Description Click
   if (getById('linkFullDesc')) {
