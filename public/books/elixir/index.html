@@ -14,8 +14,16 @@
 
 -->
 
-<html class="dark" id="htmltop" lang="en">
+<html id="htmltop" lang="en">
   <head>
+    <script>
+      (function() {
+        var mode = localStorage.getItem('mode');
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var isDark = mode === 'dark' || (!mode && prefersDark);
+        document.documentElement.classList.add(isDark ? 'dark' : 'light');
+      })();
+    </script>
     <title>CWB Writing | Elixir</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />

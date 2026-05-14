@@ -14,8 +14,16 @@
 
 -->
 
-<html class="dark" id="htmltop" lang="en">
+<html id="htmltop" lang="en">
   <head>
+    <script>
+      (function() {
+        var mode = localStorage.getItem('mode');
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var isDark = mode === 'dark' || (!mode && prefersDark);
+        document.documentElement.classList.add(isDark ? 'dark' : 'light');
+      })();
+    </script>
     <title>CWB Writing | Posts Archive</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,6 +81,11 @@
 
 
 <ul class="postlist">
+  
+  <li class="postlist-item">
+    <h4 datetime="05/15/2026">May 15, 2026</h4>
+    <a href="/posts/2026.06-possessed-giveaway/">Possessed Giveaway</a>
+  </li>
   
   <li class="postlist-item">
     <h4 datetime="04/22/2026">April 22, 2026</h4>
