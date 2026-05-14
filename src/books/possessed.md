@@ -45,6 +45,8 @@ description: Possessed, a contemporary fantasy novel brimming with humor - Chris
 
 <a name="description"></a>
 
+#### Description
+
 <div class="image-cover-possessed ir"><a href="/books/possessed/"><img srcset="/_img/books/possessed_sm@2x.jpg 2x, /_img/books/possessed_sm.jpg 1x" src="/_img/books/possessed_sm.jpg" alt="Possessed Cover Image" /></a></div>
 
 Some girls go to college after high school. Amber Pérez joined a cult. After the car crash, after she lost her brother, nothing seemed to matter anymore. So when the only friend she had left said, _You wanna hang out in some parks, smoke some weed, maybe spray-paint some anarchy signs_? Amber said, _Sure_. Why not? None of it was, like, for real.
