@@ -12,6 +12,37 @@ description: Possessed, a contemporary fantasy novel brimming with humor - Chris
   <a class="book-nav-btn" href="#characters">Characters</a>
 </div>
 
+<a name="preorder"></a>
+
+#### eBook - $3.99 - PRE-ORDER NOW!
+
+- Amazon<br />[US](https://www.amazon.com/dp/B0GX2WJ8FP) &sdot;
+  [CA](https://www.amazon.ca/dp/B0GX2WJ8FP) &sdot;
+  [UK](https://www.amazon.co.uk/dp/B0GX2WJ8FP) &sdot;
+  [AU](https://www.amazon.com.au/dp/B0GX2WJ8FP) &sdot;
+  [DE](https://www.amazon.de/dp/B0GX2WJ8FP) &sdot;
+  [FR](https://www.amazon.fr/dp/B0GX2WJ8FP) &sdot;
+  [JP](https://www.amazon.co.jp/dp/B0GX2WJ8FP) &sdot;
+  [ES](https://www.amazon.es/dp/B0GX2WJ8FP) &sdot;
+  [IT](https://www.amazon.it/dp/B0GX2WJ8FP) &sdot;
+  [NL](https://www.amazon.nl/dp/B0GX2WJ8FP) &sdot;
+  [BR](https://www.amazon.com.br/dp/B0GX2WJ8FP) &sdot;
+  [MX](https://www.amazon.com.mx/dp/B0GX2WJ8FP) &sdot;
+  [IN](https://www.amazon.in/dp/B0GX2WJ8FP)
+- [Barnes & Noble](https://www.barnesandnoble.com/w/possessed-christopher-buecheler/1149932502?ean=2940184961460)
+- [Smashwords](https://www.smashwords.com/books/view/2026828)
+- [Kobo](https://www.kobo.com/us/en/ebook/possessed-89)
+- [Apple Books](https://books.apple.com/us/book/possessed/id6767580750)
+- [Bookshop.org](https://bookshop.org/p/books/possessed-christopher-buecheler/a1cbdb782227462d)
+- [Books2Read](https://books2read.com/u/mqjWy2)
+- [Vivlio](https://shop.vivlio.com/product/9780988470866_9780988470866_10020/possessed)
+- [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/A1079744795)
+
+#### Print - $12.99
+
+- Pre-Orders aren't supported, stop back on June 18th!
+- I'll also be making signed copies available for purchase on my website, so if you want one of those, stay tuned for the announcement!
+
 <a name="description"></a>
 
 <div class="image-cover-possessed ir"><a href="/books/possessed/"><img srcset="/_img/books/possessed_sm@2x.jpg 2x, /_img/books/possessed_sm.jpg 1x" src="/_img/books/possessed_sm.jpg" alt="Possessed Cover Image" /></a></div>
@@ -32,37 +63,6 @@ Helping people not die is a _serious_ motivator, so Amber and Jayuul hatch a pla
 - **Length:** 360 pages
 - **Series:** Standalone
 - **Rating:** (Pre-Release)
-
-<a name="preorder"></a>
-
-#### eBook - $3.99 - PRE-ORDER NOW!
-
-- [Amazon (US)](https://www.amazon.com/dp/B0GX2WJ8FP)
-- [Amazon (CA)](https://www.amazon.ca/dp/B0GX2WJ8FP)
-- [Amazon (UK)](https://www.amazon.co.uk/dp/B0GX2WJ8FP)
-- [Amazon (AU)](https://www.amazon.com.au/dp/B0GX2WJ8FP)
-- [Amazon (DE)](https://www.amazon.de/dp/B0GX2WJ8FP)
-- [Amazon (FR)](https://www.amazon.fr/dp/B0GX2WJ8FP)
-- [Amazon (JP)](https://www.amazon.co.jp/dp/B0GX2WJ8FP)
-- [Amazon (ES)](https://www.amazon.es/dp/B0GX2WJ8FP)
-- [Amazon (IT)](https://www.amazon.it/dp/B0GX2WJ8FP)
-- [Amazon (NL)](https://www.amazon.nl/dp/B0GX2WJ8FP)
-- [Amazon (BR)](https://www.amazon.com.br/dp/B0GX2WJ8FP)
-- [Amazon (MX)](https://www.amazon.com.mx/dp/B0GX2WJ8FP)
-- [Amazon (IN)](https://www.amazon.in/dp/B0GX2WJ8FP)
-- [Barnes & Noble](https://www.barnesandnoble.com/w/possessed-christopher-buecheler/1149932502?ean=2940184961460)
-- [Smashwords](https://www.smashwords.com/books/view/2026828)
-- [Kobo](https://www.kobo.com/us/en/ebook/possessed-89)
-- [Apple Books](https://books.apple.com/us/book/possessed/id6767580750)
-- [Bookshop.org](https://bookshop.org/p/books/possessed-christopher-buecheler/a1cbdb782227462d)
-- [Books2Read](https://books2read.com/u/mqjWy2)
-- [Vivlio](https://shop.vivlio.com/product/9780988470866_9780988470866_10020/possessed)
-- [Thalia.de](https://www.thalia.de/shop/home/artikeldetails/A1079744795)
-
-#### Print - $12.99
-
-- Pre-Orders aren't supported, stop back on June 18th!
-- I'll also be making signed copies available for purchase on my website, so if you want one of those, stay tuned for the announcement!
 
 <a name="characters"></a>
 
