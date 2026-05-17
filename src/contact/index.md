@@ -12,8 +12,8 @@ Got something to say? Have thoughts on one of my books? Want to ask me a questio
 
 - <a href="https://bsky.app/profile/cwbuecheler.com" aria-label="BlueSky" target="_blank">BlueSky</a>
 - <a href="https://www.instagram.com/cwbwriting/" aria-label="Instagram" target="_blank">Instagram</a>
-- <a href="https://www.tiktok.com/@cwbwriting" aria-label="TikTok" target="_blank">TikTok</a>
 - <a href="https://www.goodreads.com/author/show/3104036.Christopher_Buecheler" aria-label="Goodreads" target="_blank">Goodreads</a>
+- <a href="https://www.tiktok.com/@cwbwriting" aria-label="TikTok" target="_blank">TikTok</a>
 
 #### Mail Me At
 
