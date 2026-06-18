@@ -40,8 +40,26 @@ description: Possessed, a contemporary fantasy novel brimming with humor - Chris
 
 #### Print - $12.99
 
-- Pre-Orders aren't supported, stop back on June 18th!
-- I'll also be making signed copies available for purchase on my website, so if you want one of those, stay tuned for the announcement!
+**Regular Print Edition:**
+
+- [Amazon US](https://www.amazon.com/dp/098847087X)
+- [Amazon CA](https://www.amazon.ca/dp/098847087X)
+- [Amazon UK](https://www.amazon.co.uk/dp/098847087X)
+- [Amazon AU](https://www.amazon.com.au/dp/098847087X)
+- [Amazon IE](https://www.amazon.ie/dp/098847087X)
+- [Amazon DE](https://www.amazon.de/dp/098847087X)
+- [Amazon FR](https://www.amazon.fr/dp/098847087X)
+- [Amazon JP](https://www.amazon.co.jp/dp/098847087X)
+- [Amazon ES](https://www.amazon.es/dp/098847087X)
+- [Amazon IT](https://www.amazon.it/dp/098847087X)
+- [Amazon NL](https://www.amazon.nl/dp/098847087X)
+- [Amazon PL](https://www.amazon.pl/dp/098847087X)
+- [Amazon SE](https://www.amazon.se/dp/098847087X)
+- [Amazon BE](https://www.amazon.com.be/dp/098847087X)
+
+**Signed Copies:**
+
+- [Order a Signed Copy](/books/possessed-signed-copies)
 
 <a name="description"></a>
 
@@ -111,7 +129,31 @@ As time drags on, and he grows more desperate, Matthias begins to consider other
 
 He _will_ bring Miami to its knees, and anyone who stands in his way had better have help.
 
-**(More characters coming soon!)**
+<hr style="margin-bottom: 1rem;" />
+
+<div style="width: 100%; max-width: 500px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
+<a href="/_img/possessed/dylan_big.jpg" target="_blank"><img src="/_img/possessed/dylan_small.jpg" alt="A completed color illustration - Dylan is a white male in his early twenties with light brown hair, long, currently pulled back in a man-bun or ponytail. He's got prominent eyebrows above brown eyes, a medium-sized nose, and full lips. He has a short brown beard. There is a leather cord hanging from his neck"></a>Dylan may be judging you &hellip; (illustration by <a href="https://www.alexneonakis.com/" target="_blank">Alexandria Neonakis</a>)</div>
+
+**Dylan** servers as Matthias's second in command for a variety of reasons. For one thing, he has his shit a little bit more together than the average member of Satan's Children. For another, he's a little stronger in his belief in the occult than the others. For a third, he's very interested in seeing what kind of social change could be enacted via powers beyond those humans are capable of.
+
+Friendly, chill, and into death metal, Dylan is close with all of the remaining members of the cult, but closest with Amber and Shannon. Amber would love to date him, but Dylan's into dudes with chest hair, and she's neither the former, nor has the latter.
+
+She'd tell him about Jayuul, of course, in an instant ... except the first time Jayuul laid eyes on Dylan, the demon started screaming at her not to mention him. Something about the necklace Dylan wears makes Jayuul not trust him.
+
+But that's crazy, right? Dylan's her friend. He's kept no secrets from her.
+
+<hr style="margin-bottom: 1rem;" />
+
+<div style="width: 100%; max-width: 500px; margin: 0 auto 1rem auto; font-size: 11px; color: #666; line-height: 1;">
+<a href="/_img/possessed/kim_big.jpg" target="_blank"><img src="/_img/possessed/kim_small.jpg" alt="A completed color illustration - Kim is a woman in her early twenties. She has long dark hair and large green eyes edging toward turquoise. She's tanned and fit, with full pink lips. She's looking at the camera and smiling a bit."></a>Yeah, sure &hellip; we can take a selfie. (illustration by <a href="https://www.alexneonakis.com/" target="_blank">Alexandria Neonakis</a>)</div>
+
+**Kim** grew up starring in commercials for her father's furniture business, and as a result gets recognized around southern Florida more than she'd like. She's in her final year at the University of Miami, studying business. Not that she intends to take over the furniture empire; she wants to run a tech startup.
+
+She doesn't know Amber. Or Dylan. Or any of the members of Satan's Children. But she becomes familiar with them after she wakes up to find herself tied up in the trunk of Matthias's car. While Amber gets her out of that terrifying situation, they soon find themselves in several more.
+
+Kim's a straightforward, take charge kind of girl who knows how to use her looks, her celebrity, and her brains and is used to the privileges money brings. For all that, she's good natured, and strikes up a quick friendship not only with Amber, but with Dylan as well.
+
+She also thinks Amber is _very_ cute.
 
 ### Praise for Possessed
 

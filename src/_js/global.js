@@ -43,6 +43,81 @@ const getMastodonData = () => {
     });
 };
 
+const SIGNED_COPY_BOOK_PRICE = 12.99;
+const SIGNED_COPY_SHIPPING_RATES = [
+  { country: 'US',    label: 'United States',         rate: 5.22  },
+  { country: 'FR',    label: 'France',                rate: 10.75 },
+  { country: 'EU',    label: 'Other European Union',  rate: 22.50 },
+  { country: 'UK',    label: 'United Kingdom',        rate: 27.00 },
+  { country: 'other', label: 'Other (International)', rate: 45.50 },
+];
+
+const getSignedCopyRate = (code) => {
+  const match = SIGNED_COPY_SHIPPING_RATES.find((r) => r.country === code);
+  return match || SIGNED_COPY_SHIPPING_RATES.find((r) => r.country === 'other');
+};
+
+const updateSignedCopySummary = () => {
+  const countryCode = getById('sc-country').value;
+  const shippingEl  = getById('sc-shipping-display');
+  const totalEl     = getById('sc-total-display');
+  if (!countryCode) {
+    shippingEl.textContent = 'Select a country';
+    shippingEl.style.color = '#888';
+    totalEl.textContent = '--';
+    getById('sc-country-name').value = '';
+    getById('sc-shipping-hidden').value = '';
+    getById('sc-total-hidden').value = '';
+    getById('sc-submit').disabled = true;
+    return;
+  }
+  const entry = getSignedCopyRate(countryCode);
+  const total = (SIGNED_COPY_BOOK_PRICE + entry.rate).toFixed(2);
+  shippingEl.textContent = '$' + entry.rate.toFixed(2);
+  shippingEl.style.color = '';
+  totalEl.textContent = '$' + total;
+  getById('sc-country-name').value = entry.label;
+  getById('sc-shipping-hidden').value = '$' + entry.rate.toFixed(2);
+  getById('sc-total-hidden').value = '$' + total;
+  getById('sc-submit').disabled = false;
+};
+
+const handleSignedCopiesForm = async (e) => {
+  e.preventDefault();
+  const form = e.target;
+  const resultEl = getById('sc-form-result');
+  const submitBtn = form.querySelector('button[type="submit"]');
+  if (!getById('sc-country').value) {
+    resultEl.className = 'contactform-result contactform-result--error';
+    resultEl.textContent = 'Please select your country.';
+    return;
+  }
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Sending...';
+  resultEl.className = 'contactform-result';
+  resultEl.textContent = '';
+  try {
+    const response = await fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      body: new FormData(form),
+    });
+    const json = await response.json();
+    if (json.success) {
+      getById('signed-copy-form').style.display = 'none';
+      getById('order-success').style.display = 'block';
+      return;
+    } else {
+      resultEl.classList.add('contactform-result--error');
+      resultEl.textContent = 'Something went wrong. Please try again or email me directly.';
+    }
+  } catch {
+    resultEl.classList.add('contactform-result--error');
+    resultEl.textContent = 'Something went wrong. Please try again or email me directly.';
+  }
+  submitBtn.disabled = false;
+  submitBtn.textContent = 'Request Order';
+};
+
 const handleContactForm = async (e) => {
   e.preventDefault();
   const form = e.target;
@@ -122,6 +197,12 @@ const afterDOMLoaded = async () => {
   // Handle contact form
   if (getById('contactform')) {
     getById('contactform').addEventListener('submit', handleContactForm);
+  }
+
+  // Handle signed copies order form
+  if (getById('signed-copies-form')) {
+    getById('sc-country').addEventListener('change', updateSignedCopySummary);
+    getById('signed-copies-form').addEventListener('submit', handleSignedCopiesForm);
   }
 
   // Handle Show Full Description Click

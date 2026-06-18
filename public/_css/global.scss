@@ -34,6 +34,11 @@ a:visited {
 a:hover {
   border-bottom: 1px dashed #0482e5;
 }
+a:has(img):link,
+a:has(img):visited,
+a:has(img):hover {
+  border-bottom: none;
+}
 
 h1,
 h2,
@@ -414,6 +419,17 @@ header {
   background: #036bbf;
   border-bottom: none;
   color: #fff;
+}
+::placeholder {
+  color: #888;
+  opacity: 0.6;
+}
+.book-nav-btn:disabled,
+.book-nav-btn[disabled] {
+  background: #aaa;
+  color: #eee;
+  cursor: not-allowed;
+  pointer-events: none;
 }
 
 /* FOOTER ============================================== */
