@@ -33,7 +33,7 @@ Helping people not die is a serious motivator, so Amber and Jayuul hatch a plan 
 - **Series:** Standalone
 - **Status:** Release Date: June 18th, 2026
 
-[Learn More & Pre-Order Now!](/books/possessed/)
+[Learn More & Buy Now!](/books/possessed/)
 
 <a name="elixir"></a>
 

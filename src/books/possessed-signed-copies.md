@@ -10,6 +10,9 @@ description: Order a signed print copy of Possessed, a contemporary fantasy nove
   <a class="book-nav-btn" href="/books/possessed/">Back to Possessed</a>
 </div>
 
+Sorry, but signed copies of **Possessed** are no longer available. Thank you to everyone who ordered one!
+
+<!--
 #### Get a Signed Copy!
 
 For a limited time, signed print copies of **Possessed** are available for purchase directly from me. Each copy is personally signed and shipped from the US (for US orders) or France (for EU and other orders).
@@ -100,6 +103,8 @@ Fill out the form below with your details and I'll email you back with instructi
   <p style="margin: 0.5rem 0 0 0;">I&rsquo;ll be in touch at the email address you provided with instructions on how to complete payment via PayPal.</p>
 </div>
 <br />
+
+-->
 
 ---
 

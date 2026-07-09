@@ -8,13 +8,13 @@ description: Possessed, a contemporary fantasy novel brimming with humor - Chris
 
 <div class="book-nav">
   <a class="book-nav-btn" href="#description">Description</a>
-  <a class="book-nav-btn" href="#preorder">Pre-Order Now</a>
+  <a class="book-nav-btn" href="#buy">Buy Now</a>
   <a class="book-nav-btn" href="#characters">Characters</a>
 </div>
 
-<a name="preorder"></a>
+<a name="buy"></a>
 
-#### eBook - $3.99 - PRE-ORDER NOW!
+#### eBook - $3.99 - BUY NOW!
 
 - Amazon<br />[US](https://www.amazon.com/dp/B0GX2WJ8FP) &sdot;
   [CA](https://www.amazon.ca/dp/B0GX2WJ8FP) &sdot;
@@ -56,10 +56,6 @@ description: Possessed, a contemporary fantasy novel brimming with humor - Chris
 - [Amazon PL](https://www.amazon.pl/dp/098847087X)
 - [Amazon SE](https://www.amazon.se/dp/098847087X)
 - [Amazon BE](https://www.amazon.com.be/dp/098847087X)
-
-**Signed Copies:**
-
-- [Order a Signed Copy](/books/possessed-signed-copies)
 
 <a name="description"></a>
 
